@@ -34,8 +34,8 @@
 #### Покроковий запуск у Visual Studio Code:
 1. **Клонування репозиторію:**
    ```bash
-   git clone <URL_ВАШОГО_РЕПОЗИТОРІЮ>
-   cd <НАЗВА_ПАПКИ_ПРОЄКТУ>
+   git clone https://github.com/mukamarra/pr1_kobzar
+   cd src
    ```
 2. **Відкриття проєкту:**
    * Відкрийте VS Code: `File` -> `Open Folder...` і виберіть кореневу папку проєкту.
